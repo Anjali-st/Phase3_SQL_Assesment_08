@@ -1,0 +1,13 @@
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\ConApp_CRUD.exe.config
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\ConApp_CRUD.exe
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\ConApp_CRUD.pdb
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\EntityFramework.dll
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\EntityFramework.xml
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.csproj.AssemblyReference.cache
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.csproj.CoreCompileInputs.cache
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.csproj.CopyComplete
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.exe
+D:\DotNet\PHASE_2\Day_08\ConApp_CRUD\obj\Debug\ConApp_CRUD.pdb
